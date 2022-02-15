@@ -1,0 +1,38 @@
+.wrapper {display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin-top: 0px;
+  /* width: 50%;
+  outline: 2px solid yellow; */
+}
+
+.mytable {
+  /* align-items: center; */
+  width:30vw;
+  height: 30vh;
+  /* outline: 2px solid yellow; */
+}
+
+
+
+td {
+  border-radius: 50px;
+  background: #e0e0e0;
+  box-shadow:  20px 20px 40px #7d7d7d,
+               -20px -20px 40px #ffffff;
+
+               color: blue;
+               text-align: center;
+               font-size: 38px;
+               font-weight: 500;
+               height:100px;
+               width: 130px;
+}
+/*
+table {
+border-radius: 2px;
+background: #e0e0e0;
+box-shadow:  20px 20px 40px #7d7d7d,
+             -20px -20px 40px #ffffff;
+} */
