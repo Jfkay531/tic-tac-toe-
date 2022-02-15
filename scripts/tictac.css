@@ -17,10 +17,10 @@
 
 
 td {
-  border-radius: 17px;
-  background: #f4f0f0;
-  box-shadow:  23px 23px 47px #898686,
-             -23px -23px 47px #ffffff;
+ border-radius: 17px;
+background: #f4f0f0;
+box-shadow:  23px 23px 1px #626060,
+             -23px -23px 1px #ffffff;
 
                color: blue;
                text-align: center;
