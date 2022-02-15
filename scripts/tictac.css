@@ -18,9 +18,9 @@
 
 td {
   border-radius: 17px;
-background: #131111;
-box-shadow:  23px 23px 47px #0b0a0a,
-             -23px -23px 47px #1b1818;
+  background: #f4f0f0;
+  box-shadow:  23px 23px 47px #898686,
+             -23px -23px 47px #ffffff;
 
                color: blue;
                text-align: center;
